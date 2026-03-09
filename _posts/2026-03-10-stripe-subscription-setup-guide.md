@@ -2,7 +2,7 @@
 layout: post
 title:  "SaaS 프로젝트를 위한 Stripe 구독 결제 연동 가이드"
 slug: "stripe-subscription-setup-guide-for-saas-projects"
-date:   2026-03-10 22:00:00 +0900
+date:   2026-03-09 19:00:00 +0900
 categories: blog
 ---
 <style>a, li, code { word-break: break-all; }</style>
